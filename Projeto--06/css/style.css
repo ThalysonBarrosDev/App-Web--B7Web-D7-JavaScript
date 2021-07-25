@@ -46,6 +46,7 @@ h1 {
     color: #FFF;
     font-size: 18px;
     margin: 20px 0;
+    text-align: center;
 }
 .option {
     display: flex;
